@@ -1,0 +1,21 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    padding: 8px;
+    margin: 24px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+    
+.card img {
+    max-width: 400px;
+}
+    
+.title {
+    padding-top: 16px;
+}
+    
+.container {
+    padding: 2px 16px;
+}
+

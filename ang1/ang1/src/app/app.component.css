@@ -1,0 +1,14 @@
+.navbar-header {
+    background-color: #07393C;
+    padding: 30px 50px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+}
+    
+.nav-title {
+    text-decoration: none;
+    color: white;
+    font-size: 16pt;
+}
+
